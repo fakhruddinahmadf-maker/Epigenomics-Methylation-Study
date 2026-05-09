@@ -1,1 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
 
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files (download from GEO directly)
+*.bam
+*.bai
+*.fastq
+*.fq
+*.gz
+*.bigwig
+*.bw
+
+# Temporary files
+*.tmp
+*.log
