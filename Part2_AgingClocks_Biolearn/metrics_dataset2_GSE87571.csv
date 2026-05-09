@@ -1,0 +1,6 @@
+Clock,MAE (years),Pearson r,N samples
+DunedinPACE,91.98,0.447,20
+Hannum,5.14,0.215,20
+PhenoAge,12.71,0.197,20
+Lin,7.41,0.1,20
+Horvathv1,14.54,0.018,20

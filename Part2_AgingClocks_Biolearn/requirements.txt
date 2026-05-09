@@ -1,0 +1,6 @@
+biolearn
+pandas
+numpy
+matplotlib
+seaborn
+scipy
